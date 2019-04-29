@@ -1,0 +1,15 @@
+ body {
+	padding: 40px;
+	overflow-x: hidden; /* For Opera */
+	-webkit-box-shadow:
+		inset black 0 0 0 5px;
+
+	-moz-box-shadow:
+		inset black 0 0 0 5px;
+	box-shadow:
+		inset black 0 0 0 5px;
+}
+
+.paddedImage {
+    padding-top: 10%;
+}
