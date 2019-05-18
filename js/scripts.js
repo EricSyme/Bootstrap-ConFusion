@@ -13,3 +13,16 @@ $(document).ready(function() {
         }
     });
 });
+
+$(document).ready(function(){
+    $("#myBtn").click(function(){ 
+      $("#myModal").modal();
+    });
+});
+
+
+$(document).ready(function(){
+    $("#loginBtn").click(function(){
+      $("#loginModal").modal();
+    });
+});
